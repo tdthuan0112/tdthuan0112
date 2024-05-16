@@ -1,7 +1,7 @@
-### 🤔 Who I Am ?
+## 🤔 Who I Am ?
 My name is Tran Dinh Thuan 25 years old. On this page you will find all of the code related to my person project.
 
-⚡Technologies that i use
+## ⚡Technologies that i use
 
 Html
 Css
