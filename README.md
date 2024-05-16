@@ -3,7 +3,7 @@ My name is Tran Dinh Thuan 25 years old. On this page you will find all of the c
 
 ## ⚡Technologies that i use
 
-Html
+![html](./html.png)Html
 Css
 Javascript
 Tailwindcss
