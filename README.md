@@ -2,7 +2,7 @@
 My name is Tran Dinh Thuan 25 years old. On this page you will find all of the code related to my person project.
 
 ## ⚡Technologies that i use
-
+![HTML5](./assets/html.svg)
   + Html
   + Css
   + Javascript
