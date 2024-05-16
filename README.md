@@ -2,16 +2,7 @@
 My name is Tran Dinh Thuan 25 years old. On this page you will find all of the code related to my person project.
 
 ## ⚡Technologies that i use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg)
-  + Html
-  + Css
-  + Javascript
-  + Tailwindcss
-  + Reactjs
-  + Nextjs
-  + Vue
-  + Nuxtjs
-  + ASP .NET
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JAVASCRIPT](./assets/javascript.svg) ![REACT](./assets/react.svg) ![NEXT.JS](./assets/nextjs.svg) ![VUE](./assets/vuejs.svg) ![NUXT](./assets/nuxtjs.svg) ![DOTNET](./assets/dotnet.svg) 
 
 <!--
 **tdthuan0112/tdthuan0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
