@@ -1,5 +1,10 @@
 ## 🤔 Who I Am ?
-My name is Tran Dinh Thuan 25 years old. On this page you will find all of the code related to my person project.
+My name is Tran Dinh Thuan. On this page you will find all of the code related to my person project.
+
+### Experience
+  * .NET: 3+ YoE
+  * Vue.js: 2+ YoE
+  * React, Next.js, Nuxt: 1+ YoE
 
 ## ⚡Technologies that i use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JAVASCRIPT](./assets/javascript.svg) ![REACT](./assets/react.svg) ![NEXT.JS](./assets/nextjs.svg) ![VUE](./assets/vuejs.svg) ![NUXT](./assets/nuxtjs.svg) ![DOTNET](./assets/dotnet.svg) ![SQL SERVER](./assets/microsoftsqlserver.svg)
