@@ -1,6 +1,9 @@
 ## 🤔 Who I Am ?
 My name is Tran Dinh Thuan. On this page you will find all of the code related to my person project.
 
+### Profile
+Experienced web developer adept in all stages of web development. Worked with different departments in order to discuss the businesses. Knowledgeable in user interfaces, database design, coding, and debugging processes.
+
 ### Experience
   * .NET: 3+ YoE
   * Vue.js: 2+ YoE
